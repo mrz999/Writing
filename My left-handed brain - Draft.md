@@ -5,7 +5,7 @@ Have you heard of ADHD? It seems that the number of individuals diagnosed with A
 ### The Raise of the left-handed
 I found an interesting analogy in the [video ](https://www.youtube.com/watch?v=Ck9FMtIGVxQ)of [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate). The analogy mentioned that before the 1920s, the number of left-handed individuals was relatively low. 
 
-![https://github.com/mrz999/Writing/blob/main/Pasted%20image%2020241018075715.png?raw=true].(https://github.com/mrz999/Writing/blob/main/Pasted%20image%2020241018075715.png?raw=true)
+![https://github.com/mrz999/Writing/blob/main/Pasted%20image%2020241018075715.png?raw=true](https://github.com/mrz999/Writing/blob/main/Pasted%20image%2020241018075715.png?raw=true)
 Then, There was a sudden increase in the number of left-handed individuals. However, this rise does not suggest that more people suddenly became left-handed. Instead, society has begun to reduce the stigma surrounding Left-handed individuals. With the reduction of negative attitudes and discrimination, left-handed individuals felt more comfortable openly using their left-hand.
 
 ### The Stigma of Left-Handed
